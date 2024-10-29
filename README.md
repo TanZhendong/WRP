@@ -110,6 +110,16 @@ python test_blockELL.py
 python test_semi.py
 ```
 
+### Citation
+```
+@inproceedings{tan2024wrp,
+  title={WRP: Weight Recover Prune for Structured Sparsity},
+  author={Tan, Zhendong and Zhang, Xingjun and Wei, Zheng},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={6433--6443},
+  year={2024}
+}
+```
 
 ### Acknowledgement
 This repository is build upon the [Wanda](https://github.com/locuslab/wanda) and [SpQR](https://github.com/Vahe1994/SpQR) repositories.
